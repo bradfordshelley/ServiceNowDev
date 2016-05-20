@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Studio Gear" max_length="40" name="x_10336_ya_studio_gear" type="collection">
+        <element label="Carrier" max_length="40" name="carrier" type="string"/>
+        <element label="Company" max_length="32" name="company" reference="core_company" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Shipping Guy" max_length="32" name="ship_guy" reference="sys_user" type="reference"/>
+        <element label="Studio" max_length="32" name="studio" reference="x_10336_ya_best_studio" type="reference"/>
+        <element label="Tracking Number" max_length="400" name="tracking" type="string"/>
+        <index name="index">
+            <element name="studio"/>
+        </index>
+        <index name="index2">
+            <element name="company"/>
+        </index>
+        <index name="index3">
+            <element name="ship_guy"/>
+        </index>
+    </element>
+</database>

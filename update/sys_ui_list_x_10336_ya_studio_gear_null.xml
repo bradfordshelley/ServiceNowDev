@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_10336_ya_studio_gear" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>054fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carrier</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>854fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>094fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ship_guy</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>894fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>studio</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>0d4fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tracking</element>
+            <list_id display_value="x_10336_ya_studio_gear" element="NULL" name="x_10336_ya_studio_gear" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd4fdf344f23120000bda7d18110c77c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_id>8d4fdf344f23120000bda7d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_10336_ya_studio_gear</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 13:31:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd4fdf344f23120000bda7d18110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_10336_ya_studio_gear</sys_name>
+            <sys_package display_value="ya" source="x_10336_ya">03391e884f17120000bda7d18110c796</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ya">03391e884f17120000bda7d18110c796</sys_scope>
+            <sys_update_name>sys_ui_list_x_10336_ya_studio_gear_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 13:31:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

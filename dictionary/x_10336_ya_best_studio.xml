@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Best Studio" max_length="40" name="x_10336_ya_best_studio" type="collection">
+        <element label="Bottle Service?" max_length="40" name="bottles" type="boolean"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Budget" max_length="40" name="u_budget" type="currency"/>
+        <element label="Company" max_length="32" name="u_company" reference="core_company" type="reference"/>
+        <element label="Studio Lead" max_length="32" name="u_lead" reference="sys_user" type="reference"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <index name="index">
+            <element name="u_lead"/>
+        </index>
+        <index name="index2">
+            <element name="u_company"/>
+        </index>
+    </element>
+</database>
